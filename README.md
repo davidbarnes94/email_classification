@@ -9,3 +9,6 @@ This project aims to classify emails from the Enron Email Dataset as spam or not
 2. **naivebayes.py**: consists of functions for learning the parameters of the model using the training data and measuring the model's performance using the testing data. 
 3. **util.py** : consists of functions for parsing the data in the files.
 
+## Dataset
+The data is a preprocessed version of the Enron email database. See V. Metsis, I. Androutsopoulos and G. Paliouras, *Spam Filtering with Naive Bayes – Which Naive Bayes?” Proceedings of the 3rd Conference on Email and Anti-Spam (CEAS 2006), Mountain View, CA, USA, 2006*.
+
