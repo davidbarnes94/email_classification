@@ -3,9 +3,9 @@ This project aims to classify emails from the Enron Email Dataset as spam or not
 
 ## File Contents and Purpose
 1. **data** 
-* ham
-* spam
-* testing
+...* ham
+...* spam
+...* testing
 2. **naivebayes.py**
 3. **util.py**
 
